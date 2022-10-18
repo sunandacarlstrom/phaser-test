@@ -1,0 +1,25 @@
+{
+  "name": "phaser-test",
+  "version": "1.0.0",
+  "description": "Phaser test project",
+  "main": "script.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunandacarlstrom/phaser-test.git"
+  },
+  "keywords": [
+    "phaser"
+  ],
+  "author": "sunanda carlström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunandacarlstrom/phaser-test/issues"
+  },
+  "homepage": "https://github.com/sunandacarlstrom/phaser-test#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
